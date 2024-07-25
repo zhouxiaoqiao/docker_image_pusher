@@ -1,4 +1,4 @@
-nginx
+
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
@@ -7,4 +7,10 @@ xhofe/alist:latest
 alpine
 langgenius/dify-api
 langgenius/dify-web
+postgres:15-alpine
+redis:6-alpine
+semitechnologies/weaviate
+langgenius/dify-sandbox
+ubuntu/squid
+nginx:latest
 
