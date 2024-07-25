@@ -5,5 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 alpine
-langgenius/dify-api:0.6.14  registry.cn-guangzhou.aliyuncs.com/docker_zxq_space/dify-api:0.6.14
+langgenius/dify-api:v0.6.14
 
