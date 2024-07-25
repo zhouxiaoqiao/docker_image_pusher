@@ -5,11 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 alpine
-langgenius/dify-api:0.6.14 registry.cn-guangzhou.aliyuncs.com/docker_zxq_space/dify-api:0.6.14
-langgenius/dify-web:0.6.14 registry.cn-guangzhou.aliyuncs.com/docker_zxq_space/dify-web:0.6.14
-postgres:15-alpine registry.cn-guangzhou.aliyuncs.com/docker_zxq_space/postgres:15-alpine
-redis:6-alpine registry.cn-guangzhou.aliyuncs.com/docker_zxq_space/redis:6-alpine
-semitechnologies/weaviate:1.19.0 registry.cn-guangzhou.aliyuncs.com/docker_zxq_space/weaviate:1.19.0
-langgenius/dify-sandbox:0.2.1 registry.cn-guangzhou.aliyuncs.com/docker_zxq_space/dify-sandbox:0.2.1
-ubuntu/squid:latest registry.cn-guangzhou.aliyuncs.com/docker_zxq_space/squid:latest
-nginx:latest registry.cn-guangzhou.aliyuncs.com/docker_zxq_space/nginx:latest
+langgenius/dify-api:0.6.14  registry.cn-guangzhou.aliyuncs.com/docker_zxq_space/dify-api:0.6.14
+
